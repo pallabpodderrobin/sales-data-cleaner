@@ -1,0 +1,6 @@
+# Dataset folder ignore
+data/
+
+# Python cache ignore
+__pycache__/
+.ipynb_checkpoints/
